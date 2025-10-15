@@ -1,6 +1,8 @@
 # Trap Dungeon Escape
 
-## Trap Dungeon Escape – Mobile Gameplay Demo
+## Desktop Gameplay Demo
+
+## Mobile Gameplay Demo
 https://github.com/user-attachments/assets/7b734346-9e8f-463b-ad20-5dc98507cdf0
 
 
