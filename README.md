@@ -5,6 +5,8 @@ It is inspired by classic trap adventure games where the goal seems simple — e
 
 
 ## Desktop Gameplay Demo
+https://github.com/user-attachments/assets/d736237d-6bca-4386-9871-51a1e6cf4f61
+
 
 ## Mobile Gameplay Demo
 https://github.com/user-attachments/assets/7b734346-9e8f-463b-ad20-5dc98507cdf0
