@@ -1,5 +1,9 @@
 # Trap Dungeon Escape
 
+Trap Dungeon Escape is a fast-paced 2D platformer built with **Unity** using **C#**.  
+It is inspired by classic trap adventure games where the goal seems simple — escape the dungeon alive — but hidden traps, moving spikes, and timed jumps make it a serious challenge.
+
+
 ## Desktop Gameplay Demo
 
 ## Mobile Gameplay Demo
@@ -7,8 +11,7 @@ https://github.com/user-attachments/assets/7b734346-9e8f-463b-ad20-5dc98507cdf0
 
 
 
-Trap Dungeon Escape is a fast-paced 2D platformer built with **Unity** using **C#**.  
-It is inspired by classic trap adventure games where the goal seems simple — escape the dungeon alive — but hidden traps, moving spikes, and timed jumps make it a serious challenge.
+
 
 
 
